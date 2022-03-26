@@ -22,12 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Embedded Software Engineer
+    company: Espressif Systems
+    company_url: 'https://www.espressif.com/'
+    location: Remote (Barcelona, Spain)
+    date_start: '2022-03-01'
+    date_end: ''
+    description: |2-
+      Contributing to the open-source project, [esp-rs](), which facilitates the use of Rust in ESP32 boards.
+
+
+        * Technologies: Rust
   - title: Software Engineer
     company: Real-Time Innovations (RTI)
     company_url: 'https://www.rti.com/en/'
     location: Remote (Granada, Spain)
     date_start: '2021-03-22'
-    date_end: ''
+    date_end: '2022-03-01'
     description: |2-
         Software developer for Connext DDS Micro.
 
