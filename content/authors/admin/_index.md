@@ -77,7 +77,7 @@ My name is Sergio Gasquez, I’m a Telecommunications Engineer with Masters in E
 into ESP boards!
 
 
-I am a passionate technologist :man_technologist: who enjoys learning new things :bulb:, especially electronics :robot: and programming :computer:! In my spare time I love doing sports :climbing: :swimming_man: :hiking_boot:, traveling :earth_africa:, and listening to music :love_you_gesture:.
+I am a passionate technologist :man_technologist: who enjoys learning new things :bulb:, especially electronics :robot: and programming :computer:! In my spare time I love doing sports :climbing: :swimming_man: :hiking_boot:, travelling :earth_africa:, and listening to music :love_you_gesture:.
 
 If you wanna know more about me, here is my [personal wiki](https://sergiogasquez.notion.site/Personal-Wiki-0d2f9be521094316aa12fcbbc5d20fab) where I share most things I know
 
