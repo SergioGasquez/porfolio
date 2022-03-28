@@ -29,7 +29,7 @@ experience:
     date_start: '2022-03-01'
     date_end: ''
     description: |2-
-      Contributing to the open-source project, [esp-rs](), which facilitates the use of Rust in ESP32 boards.
+        Contributing to the open-source project, [esp-rs](), which facilitates the use of Rust in ESP32 boards.
 
 
         * Technologies: Rust
@@ -40,7 +40,8 @@ experience:
     date_start: '2021-03-22'
     date_end: '2022-03-01'
     description: |2-
-        Software developer for Connext DDS Micro.
+        Software developer for Connext DDS Micro, a DDS implementation for resource-constrained applications, and Connext TSS, a FACE TSS solution powered by Connext DDS.
+
 
         * Technologies: C/C++, Git, CMake, Linux
         * Protocols: DDS
