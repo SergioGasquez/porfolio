@@ -45,12 +45,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:sergio.gasquez@gmail.com'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/Sergio_Gasquez
 - icon: github
   icon_pack: fab
   link: https://github.com/SergioGasquez
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/Sergio_Gasquez
+- icon: mastodon
+  icon_pack: fab
+  link: https://hachyderm.io/@SergioGasquez
 - icon: linkedin
   icon_pack: fab
   link: www.linkedin.com/in/sergiogasquez
