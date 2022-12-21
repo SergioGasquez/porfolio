@@ -76,12 +76,12 @@ email: "sergio.gasquez@gmail.com"
 highlight_name: false
 ---
 
-My name is Sergio Gasquez, I’m a Telecommunications Engineer with Masters in Electronic Systems for Intelligent Environments who loves Firmware and Embedded Systems Programming. I was born in Granada and after graduating, I moved to Barcelona to work as a Firmware Engineer in HP, where I developed security features for the Ink Delivery System. At the beginning of 2020, I reallocated into A Coruña to work as an Embedded Sofware Developer at Instituto Tecnológico de Galicia (ITG) where ITG I was in charge of developing firmware for a “drone in a box solution”. In March 2021 I joined RTI as a Software Developer for Connext Micro, a connectivity framework based on the DDS standard for resource-constrained applications. Currently, I am learning Rust 🦀 while contributing to the open source project [esp-rs](https://github.com/esp-rs), which tries to bring Rust
+My name is Sergio Gasquez, I’m a Telecommunications Engineer with a Master's in Electronic Systems for Intelligent Environments who loves Firmware and Embedded Systems Programming. I was born in Granada and after graduating, I moved to Barcelona to work as a Firmware Engineer at HP, where I developed security features for the Ink Delivery System. At the beginning of 2020, I reallocated to A Coruña to work as an Embedded Sofware Developer at Instituto Tecnológico de Galicia (ITG) where ITG I was in charge of developing firmware for a “drone in a box solution”. In March 2021 I joined RTI as a Software Developer for Connext Micro, a connectivity framework based on the DDS standard for resource-constrained applications. Currently, I am learning Rust 🦀 while contributing to the open-source project [esp-rs](https://github.com/esp-rs), which tries to bring Rust
 into ESP boards!
 
 
-I am a passionate technologist :man_technologist: who enjoys learning new things :bulb:, especially electronics :robot: and programming :computer:! In my spare time I love doing sports :climbing: :swimming_man: :hiking_boot:, travelling :earth_africa:, and listening to music :love_you_gesture:.
+I am a passionate technologist :man_technologist: who enjoys learning new things :bulb:, especially electronics :robot: and programming :computer:! In my spare time I love doing sports :climbing: :swimming_man: :hiking_boot:, traveling :earth_africa:, and listening to music :love_you_gesture:.
 
-If you wanna know more about me, here is my [personal wiki](https://sergiogasquez.notion.site/Personal-Wiki-0d2f9be521094316aa12fcbbc5d20fab) where I share most things I know
+If you want to know more about me, here is my [personal wiki](https://sergiogasquez.notion.site/Personal-Wiki-0d2f9be521094316aa12fcbbc5d20fab) where I share most things I know
 
 Don't hesitate to contact me! 
