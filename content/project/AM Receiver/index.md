@@ -1,6 +1,6 @@
 ---
 title: Homodyne AM Receiver
-summary: Design and assemblage of an homodyne receiver syntonizing a commercial broadcasting station in A.M
+summary: Design and assemblage of a homodyne receiver syntonizing a commercial broadcasting station in A.M.
 tags:
 - Electronics
 date: "2017-05-20T00:00:00Z"

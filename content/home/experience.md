@@ -29,10 +29,11 @@ experience:
     date_start: '2022-03-01'
     date_end: ''
     description: |2-
-        Contributing to the open-source project, [esp-rs](), which facilitates the use of Rust in ESP32 boards.
+        Contributing to the open-source project, [esp-rs](https://github.com/esp-rs), which facilitates using Rust in ESP32 SoCs.
 
 
-        * Technologies: Rust
+        * Technologies: Rust, Git
+        * Protocols: I2C, I2S,  SPI, UART, ADC, USB ...
   - title: Software Engineer
     company: Real-Time Innovations (RTI)
     company_url: 'https://www.rti.com/en/'
@@ -53,7 +54,7 @@ experience:
     date_start: '2020-03-01'
     date_end: '2021-03-22'
     description: |2-
-        R&D Embedded Engineer developing firmware for a "drone in a box" solution based on ARM and AVR microcontrollers. The system controls everything needed after the drone landing including communications, centering, charging, and encapsulation.
+        R&D Embedded Engineer developing firmware for a [_drone in a box_](https://www.youtube.com/watch?v=A6RUV0yKewg&t=107s) solution based on ARM and AVR microcontrollers. The system controls everything needed after the drone landing including communications, centering, charging, and encapsulation.
 
         * Technologies: C/C++, Python, Git, Docker, CMake, Linux
         * Protocols: I2C, SPI, UART, MAVLink
@@ -78,7 +79,7 @@ experience:
     description: |2-
         - C/C++ programming: Software development for different AVR boards.
         - Telecommunications: Communications using Sigfox and GPRS/GSM.
-        - IoT platforms: Visualization of data via IoT platforms like Losant.
+        - IoT platforms: Visualization of data via IoT platforms like [Losant](https://www.losant.com/).
         - Protocols: MODBUS, I2C, SPI, RS232, UART, SDI12
         - PCB Design.
         - Hardware and software debugging.
